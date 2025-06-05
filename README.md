@@ -6,3 +6,5 @@
 ![ alt text ](https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white)
 
 Retinal vessel segmentation is the task of segmenting vessels in retina imagery. This binary task was performed with a U-Net network.
+
+<img src='https://github.com/user-attachments/assets/6d2985a8-d38c-478f-8339-01213db643d7' width='500'/>
