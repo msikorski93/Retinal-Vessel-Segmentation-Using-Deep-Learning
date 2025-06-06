@@ -47,8 +47,7 @@ The U-Net model after evaluation on testing data achieved the following results:
 |----------|----------|--------|--------|--------|-----------|--------|-------------|
 | 0.9627   | 0.7672   | 0.7928 | 0.3726 | 0.7494 | 0.8275    | 0.7191 | 0.9857      |
 
-
-The model demonstrates robust and reliable performance, with balanced metrics that suggest it generalizes well across different images. High specificity and precision make the model trustworthy in not generating false alarms. This is important in sensitive medical diagnostics. While recall and Hausdorff distance leave some room for refinement, especially in certain edge cases, the overall segmentation quality remains strong. A few examples of ground truth masks and their predictions:<br>
+The model demonstrates robust and reliable performance, with balanced metrics that suggest it generalizes well across different images. High specificity and precision make the model trustworthy in not generating false alarms. This is important in sensitive medical diagnostics. While recall leaves some room for refinement, especially in certain edge cases, the overall segmentation quality remains strong. A few examples of ground truth masks and their predictions:<br>
 <div align='center'>
 <img src='https://github.com/user-attachments/assets/aabb4105-fe25-40bc-ae5e-a7f3de047e5c' width='400'/><br>
 </div>
